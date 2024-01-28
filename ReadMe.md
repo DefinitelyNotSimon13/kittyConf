@@ -18,5 +18,5 @@
 My Kitty config. Kitty is used as my main terminal
 # Credit
 - catppuccins [kitty theme](https://github.com/catppuccin/kitty)
-- 
+  
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
